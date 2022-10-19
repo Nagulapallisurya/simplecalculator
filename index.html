@@ -1,0 +1,62 @@
+<html>
+    <head>
+        <link rel="stylesheet" href="cal.css">
+        <title>calcualtor</title>
+    </head>
+    <body>
+        <h1>Simple Calculator</h1>
+        <div class="button">
+            <form name="cal">
+            <input type="text"  class="but" placehoder="0" name="display">
+            <br>
+
+            <input type="button"  class="btnac" value="DEL" onclick="cal.display.value =' ' " id = "del" >
+            
+            <input type="button"  class="btnaddsub" value="+/-" onclick="cal.display.value+='+/-'">
+
+            <input type="button"  class="btnper" value="%" onclick="cal.display.value+='%'">
+
+            <input type="button"  class="btndiv" value="/" onclick="cal.display.value+='/'">
+             
+            <br>
+
+            <input type="button"  class="btn9" value="7" onclick="cal.display.value+='7'">
+
+            <input type="button"  class="btn8" value="8" onclick="cal.display.value+='8'">
+
+            <input type="button"  class="btn7" value="9" onclick="cal.display.value+='9'">
+
+            <input type="button"  class="btnz" value="*" onclick="cal.display.value+='*'">
+            
+            <br>
+
+            <input type="button"  class="btn4" value="4" onclick="cal.display.value+='4'">
+
+            <input type="button"  class="btn5" value="5" onclick="cal.display.value+='5'">
+
+            <input type="button"  class="btn6" value="6" onclick="cal.display.value+='6'">
+
+            <input type="button"  class="btny" value="+" onclick="cal.display.value+='+'">
+
+            <br>
+
+            <input type="button"  class="btn1" value="1" onclick="cal.display.value+='1'">
+
+            <input type="button"  class="btn2" value="2" onclick="cal.display.value+='2'">
+
+            <input type="button"  class="btn3" value="3" onclick="cal.display.value+='3'">
+
+            <input type="button"  class="btnx" value="-" onclick="cal.display.value+='-'">
+            <br>
+            
+            <input type="button"  class="btn0" value="0" onclick="cal.display.value+='0'">
+
+            <input type="button"  class="btndot" value="." onclick="cal.display.value+='.'">
+
+            <input type="button"  class="btneqal" value="=" onclick="cal.display.value=eval(cal.display.value)">
+
+
+            </form>
+        </div>
+    </body>
+</html>

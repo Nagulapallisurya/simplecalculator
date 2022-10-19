@@ -1,0 +1,213 @@
+
+body
+{   
+    background-color: #1C1C1C;
+    text-align: center;
+    
+}
+
+
+
+h1
+{
+    text-align: center;
+    font-style: italic;
+    background-color:#FF9500;
+    padding: 10px;
+    border-radius: 20px;
+}
+.but
+{
+    font-display: white;
+    height: 60px;
+    width: 310px;
+    padding: 20px;
+    border-radius: 20px;
+    text-align: right;
+    border: hidden;
+    font-size: xx-large;
+    background-color:gray;
+    
+}
+.btn9
+{
+    border-radius: 100px;
+    height: 75px;
+    width: 75px;
+    background-color:#505050;
+    color: aliceblue;
+    font-size:x-large;
+}
+.btn8
+{
+    border-radius: 100px;
+    height: 75px;
+    width: 75px;
+    background-color:#505050;
+    color: aliceblue;
+    font-size:x-large;
+}
+
+.btn7
+{
+    border-radius: 100px;
+    height: 75px;
+    width: 75px;
+    background-color:#505050;
+    color: aliceblue;
+    font-size:x-large;
+}
+
+.btnz
+{
+    border-radius: 100px;
+    height: 75px;
+    width: 75px;
+    background-color:#FF9500;
+    color: aliceblue;
+    font-size:x-large;
+}
+
+.btn4
+{
+    border-radius: 100px;
+    height: 75px;
+    width: 75px;
+    background-color:#505050;
+    color: aliceblue;
+    font-size:x-large;
+}
+
+.btn5
+{
+    border-radius: 100px;
+    height: 75px;
+    width: 75px;
+    background-color:#505050;
+    color: aliceblue;
+    font-size:x-large;
+}
+
+.btn6
+{
+    border-radius: 100px;
+    height: 75px;
+    width: 75px;
+    background-color:#505050;
+    color: aliceblue;
+    font-size:x-large;
+}
+.btny
+{
+    border-radius: 100px;
+    height: 75px;
+    width: 75px;
+    background-color:#FF9500;
+    color: aliceblue;
+    font-size:x-large;
+}
+
+.btn1
+{
+    border-radius: 100px;
+    height: 75px;
+    width: 75px;
+    background-color:#505050;
+    color: aliceblue;
+    font-size:x-large;
+}
+
+.btn2
+{
+    border-radius: 100px;
+    height: 75px;
+    width: 75px;
+    background-color:#505050;
+    color: aliceblue;
+    font-size:x-large;
+}
+
+.btn3
+{
+    border-radius: 100px;
+    height: 75px;
+    width: 75px;
+    background-color:#505050;
+    color: aliceblue;
+    font-size:x-large;
+}
+
+.btnx
+{
+    border-radius: 100px;
+    height: 75px;
+    width: 75px;
+    background-color:#FF9500;
+    color: aliceblue;
+    font-size:x-large;
+}
+.btnac
+{
+    border-radius: 100px;
+    height: 75px;
+    width: 75px;
+    background-color: #D4D4D2;
+    color: aliceblue;
+    font-size:x-large; 
+}
+.btnper
+{
+    border-radius: 100px;
+    height: 75px;
+    width: 75px;
+    background-color: #D4D4D2;
+    color: aliceblue;
+    font-size:x-large;
+}
+.btnaddsub
+{
+    border-radius: 100px;
+    height: 75px;
+    width: 75px;
+    background-color: #D4D4D2;
+    color: aliceblue;
+    font-size:x-large; 
+}
+.btndiv
+{
+    border-radius: 100px;
+    height: 75px;
+    width: 75px;
+    background-color:#FF9500;
+    color: aliceblue;
+    font-size:x-large;
+}
+.btn0
+{
+    border-radius: 100px;
+    height: 75px;
+    width: 150px;
+    background-color:#505050;
+    color: aliceblue;
+    font-size:x-large; 
+}
+
+.btndot
+{
+    border-radius: 100px;
+    height: 75px;
+    width: 75px;
+    background-color:#505050;
+    color: aliceblue;
+    font-size:x-large; 
+}
+
+.btneqal
+{
+    border-radius: 100px;
+    height: 75px;
+    width: 75px;
+    background-color:#FF9500;
+    color: aliceblue;
+    font-size:x-large;
+}
